@@ -8,3 +8,5 @@ Ya que la mayoría del avance fue a partir de un ejemplo que dio el profesor en 
 Fue un reto interesante, ya que, en comparación con el Proyecto anterior, este era un poco más complejo en todo sentido.
 El tema del tiempo nos jugo en contra, pero ya vendrán más proyectos y cosas por hacer.
 Fue una unidad de la cuál aprendimos mucho más, gracias por enseñarnos profesor.
+
+El archivo csv de este proyecto era muy pesado y no se puede subir a este repositorio.
